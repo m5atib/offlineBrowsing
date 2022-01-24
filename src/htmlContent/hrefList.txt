@@ -1,0 +1,2 @@
+/static/css/main.33a29947.css
+/static/js/main.3a402338.js
