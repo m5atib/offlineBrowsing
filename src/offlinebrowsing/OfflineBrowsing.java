@@ -38,6 +38,16 @@ public class OfflineBrowsing {
         //TO DOWNLOAD WEBSITE IMAGES 
         
         //
+        //TO DO LIST
+        
+        //1.    we need to return array of all links of page using downloadURL class.
+        //2.    make downloadURL thread class.
+        //3.    make another class to do the process.
+        //4.    make a method ot thread class to download a vidoe.
+        //5.    save all pages as filename + .html
+        //6.    distribute the links to folder.
+        //7.    make a method resolve the link href or src or other to a neeeew link (relative link).
+        //8.    open the offline page.
 
     }
 
