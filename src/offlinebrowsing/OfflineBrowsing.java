@@ -54,67 +54,33 @@ public class OfflineBrowsing {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws Exception {
-        // TODO code application logic here
-//        String site = "https://aaup.edu";
-//        URL webSite = new URL(site);
-//
-//        String pageContent = new String(new BufferedInputStream(webSite.openStream()).readAllBytes());
-//        String lines[] = pageContent.split(">");
-//        
-//        ArrayList<String> sitelinks = getAllInnerTag("=\""+site+"/",lines);
-//        ArrayList<String> hreflinks = getAllInnerTag("=\"/",lines);
-//        ArrayList<String> srclinks = getAllInnerTag("src=\"",lines);
-//        
-//        writeFile("src\\htmlContent\\website.txt", lines);
-//        writeFile("src\\htmlContent\\hrefList.txt", hreflinks);
-//        writeFile("src\\htmlContent\\srcfList.txt", srclinks);
-//        writeFile("src\\htmlContent\\siteList.txt", sitelinks);
-//
-//        ExecutorService svc = Executors.newFixedThreadPool(srclinks.size());
-//
-//        ArrayList<Future> tasks = new ArrayList<Future>();
-//
-//        for (String url : srclinks) {
-//            tasks.add(svc.submit(new downloadImage(site+url,"src\\htmlContent\\Images\\")));
-//        }
-//        //you must delete all repeatly path such as \
-//        svc.shutdown();
-           
-        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\Admin\\Desktop\\FALL 2021-2022\\SOFTWARE ENGINEERING\\inputnotes.txt"));
-        BufferedWriter bw = new BufferedWriter(new FileWriter("C:\\Users\\Admin\\Desktop\\FALL 2021-2022\\SOFTWARE ENGINEERING\\outputnotes.txt"));
+//         TODO code application logic here
+        String site = "https://www.aaup.edu";
+        URL webSite = new URL(site);
+
+        String pageContent = new String(new BufferedInputStream(webSite.openStream()).readAllBytes());
+        String lines[] = pageContent.split(">");
         
-        String as = "";
-        String data = "";
-        String temp[];
+        ArrayList<String> sitelinks = getAllInnerTag("=\""+site+"/",lines);
+        ArrayList<String> hreflinks = getAllInnerTag("=\"/",lines);
+        ArrayList<String> srclinks = getAllInnerTag("src=\"",lines);
         
-        byte v = 2;
-        char ch = (char)v;
-        String rub = ch+"";
-        while ((data=br.readLine())!= null){
-            temp  = data.split("\\.");
-            for (String t: temp){
-                bw.write(t+"\n");
-            }
-            bw.newLine();
+        writeFile("src\\htmlContent\\website.txt", lines);
+        writeFile("src\\htmlContent\\hrefList.txt", hreflinks);
+        writeFile("src\\htmlContent\\srcList.txt", srclinks);
+        writeFile("src\\htmlContent\\siteList.txt", sitelinks);
+
+        ExecutorService svc = Executors.newFixedThreadPool(srclinks.size());
+
+        ArrayList<Future> tasks = new ArrayList<Future>();
+
+        for (String url : srclinks) {
+            tasks.add(svc.submit(new downloadImage(site+url,"src\\htmlContent\\Images\\")));
         }
-        bw.close();
-        br.close();
-        
-//        BufferedReader br2 = new BufferedReader(new FileReader("C:\\Users\\Admin\\Desktop\\FALL 2021-2022\\SOFTWARE ENGINEERING\\inputnotes.txt"));
-//        BufferedWriter bw2 = new BufferedWriter(new FileWriter("C:\\Users\\Admin\\Desktop\\FALL 2021-2022\\SOFTWARE ENGINEERING\\outputnotes.txt"));
-//        
-//        while ((data=br2.readLine())!= null){
-//            temp  = data.split("/[A-Z]/g");
-//            for (String t: temp){
-//                if (t.contains(rub)) {
-//                    t.replace(rub, "");
-//                    
-//                } 
-//                bw2.write(t+"\n\n");
-//            }
-//        }
-//        bw2.close();
-//        br2.close();
+        //you must delete all repeatly path such as \
+        svc.shutdown();
+           
+
         
         
 
