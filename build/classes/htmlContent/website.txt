@@ -557,7 +557,7 @@ ul.menu").wrap("<div class='header-top-meanmenu-wrapper'>
 <!--//-->
 <![CDATA[//>
 <!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"scholarly","theme_token":"dHNHOyTSgC0GIXQwRDrN87EA_LViBKWmjt9_uSx-e9w","jquery_version":"1.10","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/slick\/slick\/slick.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/libraries\/slick\/slick\/slick-theme.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme--default.css":1,"sites\/all\/libraries\/colorbox\/example3\/colorbox.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/scholarly\/js\/meanmenu\/meanmenu.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme--classic.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme--boxed.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme--boxed--carousel.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/default.css":1,"sites\/all\/themes\/scholarly\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/scholarly\/js\/flexslider\/flexslider.css":1,"sites\/all\/themes\/scholarly\/style.css":1,"sites\/all\/themes\/scholarly\/style-green.css":1,"sites\/all\/themes\/scholarly\/fonts\/https\/lato-font.css":1,"sites\/all\/themes\/scholarly\/fonts\/https\/sourcecodepro-font.css":1,"sites\/all\/themes\/scholarly\/fonts\/https\/ptserif-blockquote-font.css":1,"sites\/all\/themes\/scholarly\/ie9.css":1,"sites\/all\/themes\/scholarly\/local.css":1},"js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/easing\/jquery.easing.min.js":1,"sites\/all\/libraries\/slick\/slick\/slick.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"misc\/progress.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/slick\/js\/slick.load.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/themes\/scholarly\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/scholarly\/js\/meanmenu\/jquery.meanmenu.fork.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"https:\/\/maps.googleapis.com\/maps\/api\/js?v=3.exp\u0026sensor=false\u0026key=AIzaSyA9PUi_ZvGWL99tjKPKUFRhDa96XFfD7cU":1,"sites\/all\/themes\/scholarly\/js\/flexslider\/jquery.flexslider.js":1,"sites\/all\/themes\/scholarly\/js\/jquery.browser.min.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":false,"mobiledevicewidth":"200px","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"sites\/all\/modules\/video_filter"},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"autoplaySpeed":3000,"pauseOnHover":true,"pauseOnDotsHover":false,"arrows":true,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mousewheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:d77390b242e04699928ee63293335499":{"view_name":"album_display","view_display_id":"block_1","view_args":"en","view_path":"node","view_base_path":"Gallery","view_dom_id":"d77390b242e04699928ee63293335499","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/":true,"\/quicktabs\/ajax\/news\/0\/block\/views_delta_slick_carousel_news-block_1\/1":true,"\/quicktabs\/ajax\/news\/1\/block\/views_delta_slick_carousel_news-block_4\/1":true,"\/quicktabs\/ajax\/news\/2\/block\/views_delta_slick_carousel_news-block_5\/1":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":[{"id":"2","sf":{"delay":"400","animation":{"opacity":"show","height":"show","width":"show"},"speed":1,"autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"13","maxWidth":"27","extraWidth":1}}},{"id":"3","sf":{"animation":{"opacity":"show","height":"show"},"speed":1,"autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}],"ajax":{"quicktabs-tab-news-0":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/news\/0\/block\/views_delta_slick_carousel_news-block_1\/1"},"quicktabs-tab-news-1":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/news\/1\/block\/views_delta_slick_carousel_news-block_4\/1"},"quicktabs-tab-news-2":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/news\/2\/block\/views_delta_slick_carousel_news-block_5\/1"}},"quicktabs":{"qt_news":{"name":"news","tabs":[{"bid":"views_delta_slick_carousel_news-block_1","hide_title":1},{"bid":"views_delta_slick_carousel_news-block_4","hide_title":1},{"bid":"views_delta_slick_carousel_news-block_5","hide_title":1}],"video_filter":{"modulepath":"sites\/all\/modules\/video_filter"}},"qt_featured_blocks":{"name":"featured_blocks","tabs":[{"bid":"views_delta_students-block_1","hide_title":1}],"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"autoplaySpeed":3000,"pauseOnHover":true,"pauseOnDotsHover":false,"arrows":true,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mousewheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true}}},"scholarly":{"google_map_latitude":"32.4061364","google_map_longitude":"35.3426907","google_map_canvas":"map-canvas"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"scholarly","theme_token":"ylNDkHUt-NKVWoAIcbnviyTEAtLt8t3qxbWzI70k9_Y","jquery_version":"1.10","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/slick\/slick\/slick.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/libraries\/slick\/slick\/slick-theme.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme--default.css":1,"sites\/all\/libraries\/colorbox\/example3\/colorbox.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/scholarly\/js\/meanmenu\/meanmenu.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme--classic.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme--boxed.css":1,"sites\/all\/modules\/slick\/css\/theme\/slick.theme--boxed--carousel.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/style\/default.css":1,"sites\/all\/themes\/scholarly\/bootstrap\/css\/bootstrap.css":1,"sites\/all\/themes\/scholarly\/js\/flexslider\/flexslider.css":1,"sites\/all\/themes\/scholarly\/style.css":1,"sites\/all\/themes\/scholarly\/style-green.css":1,"sites\/all\/themes\/scholarly\/fonts\/https\/lato-font.css":1,"sites\/all\/themes\/scholarly\/fonts\/https\/sourcecodepro-font.css":1,"sites\/all\/themes\/scholarly\/fonts\/https\/ptserif-blockquote-font.css":1,"sites\/all\/themes\/scholarly\/ie9.css":1,"sites\/all\/themes\/scholarly\/local.css":1},"js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/easing\/jquery.easing.min.js":1,"sites\/all\/libraries\/slick\/slick\/slick.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"misc\/progress.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/slick\/js\/slick.load.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/themes\/scholarly\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/scholarly\/js\/meanmenu\/jquery.meanmenu.fork.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"https:\/\/maps.googleapis.com\/maps\/api\/js?v=3.exp\u0026sensor=false\u0026key=AIzaSyA9PUi_ZvGWL99tjKPKUFRhDa96XFfD7cU":1,"sites\/all\/themes\/scholarly\/js\/flexslider\/jquery.flexslider.js":1,"sites\/all\/themes\/scholarly\/js\/jquery.browser.min.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":false,"mobiledevicewidth":"200px","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"video_filter":{"url":{"ckeditor":"\/video_filter\/dashboard\/ckeditor"},"instructions_url":"\/video_filter\/instructions","modulepath":"sites\/all\/modules\/video_filter"},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"autoplaySpeed":3000,"pauseOnHover":true,"pauseOnDotsHover":false,"arrows":true,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mousewheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:f76ba147406edf0a9532d88f926744a7":{"view_name":"album_display","view_display_id":"block_1","view_args":"en","view_path":"node","view_base_path":"Gallery","view_dom_id":"f76ba147406edf0a9532d88f926744a7","pager_element":0}}},"urlIsAjaxTrusted":{"\/views\/ajax":true,"\/":true,"\/quicktabs\/ajax\/news\/0\/block\/views_delta_slick_carousel_news-block_1\/1":true,"\/quicktabs\/ajax\/news\/1\/block\/views_delta_slick_carousel_news-block_4\/1":true,"\/quicktabs\/ajax\/news\/2\/block\/views_delta_slick_carousel_news-block_5\/1":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":[{"id":"2","sf":{"delay":"400","animation":{"opacity":"show","height":"show","width":"show"},"speed":1,"autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"13","maxWidth":"27","extraWidth":1}}},{"id":"3","sf":{"animation":{"opacity":"show","height":"show"},"speed":1,"autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}],"ajax":{"quicktabs-tab-news-0":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/news\/0\/block\/views_delta_slick_carousel_news-block_1\/1"},"quicktabs-tab-news-1":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/news\/1\/block\/views_delta_slick_carousel_news-block_4\/1"},"quicktabs-tab-news-2":{"progress":{"message":"","type":"throbber"},"event":"click","url":"\/quicktabs\/ajax\/news\/2\/block\/views_delta_slick_carousel_news-block_5\/1"}},"quicktabs":{"qt_news":{"name":"news","tabs":[{"bid":"views_delta_slick_carousel_news-block_1","hide_title":1},{"bid":"views_delta_slick_carousel_news-block_4","hide_title":1},{"bid":"views_delta_slick_carousel_news-block_5","hide_title":1}],"video_filter":{"modulepath":"sites\/all\/modules\/video_filter"}},"qt_featured_blocks":{"name":"featured_blocks","tabs":[{"bid":"views_delta_students-block_1","hide_title":1}],"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"autoplaySpeed":3000,"pauseOnHover":true,"pauseOnDotsHover":false,"arrows":true,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mousewheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true}}},"scholarly":{"google_map_latitude":"32.4061364","google_map_longitude":"35.3426907","google_map_canvas":"map-canvas"}});
 //-->
 <!]]>
 
@@ -986,7 +986,7 @@ Search form</h2>
 <div class="form-actions form-wrapper" id="edit-actions">
 <input value="" type="submit" id="edit-submit" name="op" class="form-submit" />
 </div>
-<input type="hidden" name="form_build_id" value="form-k0_GZZCkTxv78gkWN2cNPqUyn-qxyAjhaFTSmBEkJkI" />
+<input type="hidden" name="form_build_id" value="form-4FPthM0TMZWaKsVAt9DLM7E34DXsR96_d9p4y-qBphk" />
 
 <input type="hidden" name="form_id" value="search_block_form" />
 
@@ -1549,7 +1549,7 @@ English</a>
     
   <div class="content">
 
-    <div class="view view-slideshow view-id-slideshow view-display-id-block view-dom-id-cce48b1f08e5d0109fe4396d579f1848">
+    <div class="view view-slideshow view-id-slideshow view-display-id-block view-dom-id-be53449bbd16bf56eb62e7e55295b670">
 
         
   
@@ -1673,7 +1673,7 @@ English</a>
     
   <div class="content">
 
-    <div class="view view-mt-features view-id-mt_features view-display-id-block clearfix row view-dom-id-540ddf7ac6ad76f37df8a77a1f316538">
+    <div class="view view-mt-features view-id-mt_features view-display-id-block clearfix row view-dom-id-2b9661e85359c28196d1c02c536ad533">
 
         
   
@@ -1912,7 +1912,7 @@ LATEST UPDATES</a>
     
   <div class="content">
 
-    <div class="view view-slideshow view-id-slideshow view-display-id-block_1 view-dom-id-963cbcab2f12ae282c5d2aad5984c8f3">
+    <div class="view view-slideshow view-id-slideshow view-display-id-block_1 view-dom-id-eb6c85f8046eebd38ced03978286de21">
 
         
   
@@ -2265,7 +2265,7 @@ Alumni News</a>
     
   <div class="content">
 
-    <div class="view view-slick-carousel-news view-id-slick_carousel_news view-display-id-block_1 view-dom-id-8313ecc0b9f84e9678aec4ac9cbe6b56">
+    <div class="view view-slick-carousel-news view-id-slick_carousel_news view-display-id-block_1 view-dom-id-07d39dc77f372cc1ca8ad82f6c87a12d">
 
         
   
@@ -2725,7 +2725,7 @@ Latest Announcements</h2>
   
   <div class="content">
 
-    <div class="view view-latest-announcements view-id-latest_announcements view-display-id-block_1 hot-events view-dom-id-8987be9ecc6f682e1bd6b69913c510be">
+    <div class="view view-latest-announcements view-id-latest_announcements view-display-id-block_1 hot-events view-dom-id-6f37779e8b1e17d66cccd963a0b24f54">
 
         
   
@@ -2877,7 +2877,7 @@ Mobility and Scholarships</h2>
   
   <div class="content">
 
-    <div class="view view-latest-scholarships view-id-latest_scholarships view-display-id-block_1 hot-events view-dom-id-7f69739b040e002e07d51ebe8f5b4d18">
+    <div class="view view-latest-scholarships view-id-latest_scholarships view-display-id-block_1 hot-events view-dom-id-bd0ae709427d79e0217cf24f027c964b">
 
         
   
@@ -3060,7 +3060,7 @@ Upcoming Events</h2>
   
   <div class="content">
 
-    <div class="view view-mt-events view-id-mt_events view-display-id-block view-dom-id-2987dbaea15b3ee17a073e95f32f86da">
+    <div class="view view-mt-events view-id-mt_events view-display-id-block view-dom-id-58a16409f142101b179aa717801c5ba2">
 
         
   
@@ -3118,7 +3118,7 @@ Photo Gallary</h2>
   
   <div class="content">
 
-    <div class="view view-album-display view-id-album_display view-display-id-block_1 view-dom-id-d77390b242e04699928ee63293335499">
+    <div class="view view-album-display view-id-album_display view-display-id-block_1 view-dom-id-f76ba147406edf0a9532d88f926744a7">
 
         
   
@@ -3133,12 +3133,12 @@ Photo Gallary</h2>
           <div class="slick__slide slide slide--0">
       <div class="slide__content">
               
-          <a href="/Gallery/Albums/graduation/2015/12th-commencement-ceremony?title=12th%20Commencement%20Ceremony&amp;inline=true#colorbox-inline-2074773502" class="colorbox-inline" rel="gallery">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/node/798/2016-09/img3365.jpg" width="465" height="278" alt="12th Commencement Ceremony" />
+          <a href="/Gallery/Albums/events/2018/universitys-it-department-hosts-director-jarrar-interview-entitled-image-creation?title=The%20University%27s%20It%20Department%20Hosts%20the%20Director%20Jarrar%20in%20an%20Interview%20Entitled%3A%20Image%20Creation%20&amp;inline=true#colorbox-inline-271746131" class="colorbox-inline" rel="gallery">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/events/2018/2019-01/jarrar.jpg" width="459" height="311" alt="The University&#039;s It Department Hosts the Director Jarrar in an Interview Entitled: Image Creation " />
 </a>
 <div style="display: none;">
-<div id="colorbox-inline-2074773502">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/node/798/2016-09/img3365.jpg" width="750" height="448" alt="12th Commencement Ceremony" />
+<div id="colorbox-inline-271746131">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/events/2018/2019-01/jarrar.jpg" width="740" height="501" alt="The University&#039;s It Department Hosts the Director Jarrar in an Interview Entitled: Image Creation " />
 </div>
 </div>
               
@@ -3148,12 +3148,12 @@ Photo Gallary</h2>
           <div class="slick__slide slide slide--1">
       <div class="slide__content">
               
-          <a href="/Gallery/Albums/events/2019/university-hosts-workshop-about-culinary-culture-and-french-food?title=The%20University%20Hosts%20a%20Workshop%20About%20%22Culinary%20Culture%20and%20French%20Food%22&amp;inline=true#colorbox-inline-1112244650" class="colorbox-inline" rel="gallery">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/events/2019/2019-04/dsc01877-1.jpg" width="465" height="307" alt="The University Hosts a Workshop About &quot;Culinary Culture and French Food&quot;" />
+          <a href="/Gallery/Albums/campus/jenin/pictures-campus?title=Faculty%20of%20Arts%20Yard%20&amp;inline=true#colorbox-inline-2101690468" class="colorbox-inline" rel="gallery">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/node/826/2016-09/img3002.jpg" width="465" height="302" alt="Faculty of Arts Yard " />
 </a>
 <div style="display: none;">
-<div id="colorbox-inline-1112244650">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/events/2019/2019-04/dsc01877-1.jpg" width="750" height="495" alt="The University Hosts a Workshop About &quot;Culinary Culture and French Food&quot;" />
+<div id="colorbox-inline-2101690468">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/node/826/2016-09/img3002.jpg" width="750" height="486" alt="Faculty of Arts Yard " />
 </div>
 </div>
               
@@ -3163,12 +3163,12 @@ Photo Gallary</h2>
           <div class="slick__slide slide slide--2">
       <div class="slide__content">
               
-          <a href="/Gallery/Albums/graduation/2017-0/3rd-batch-graduation-ceremony-master-students-mba?title=The%203rd%20Batch%20Graduation%20Ceremony%20for%20Master%20Students%20of%20MBA&amp;inline=true#colorbox-inline-1436483889" class="colorbox-inline" rel="gallery">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/graduation/2017-0/2017-10/mg7950.JPG" width="465" height="268" alt="The 3rd Batch Graduation Ceremony for Master Students of MBA" />
+          <a href="/Gallery/Albums/campus/jenin/pictures-campus?title=Faculty%20of%20law&amp;inline=true#colorbox-inline-456274123" class="colorbox-inline" rel="gallery">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/node/826/2016-09/111.jpg" width="465" height="308" alt="Faculty of law" />
 </a>
 <div style="display: none;">
-<div id="colorbox-inline-1436483889">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/graduation/2017-0/2017-10/mg7950.JPG" width="750" height="432" alt="The 3rd Batch Graduation Ceremony for Master Students of MBA" />
+<div id="colorbox-inline-456274123">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/node/826/2016-09/111.jpg" width="750" height="497" alt="Faculty of law" />
 </div>
 </div>
               
@@ -3178,12 +3178,12 @@ Photo Gallary</h2>
           <div class="slick__slide slide slide--3">
       <div class="slide__content">
               
-          <a href="/Gallery/Albums/graduation/2015/12th-commencement-ceremony-1?title=12th%20Commencement%20Ceremony&amp;inline=true#colorbox-inline-1242478016" class="colorbox-inline" rel="gallery">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/gallery/albums/graduation/2015/2016-09/img7582.jpg" width="465" height="310" alt="12th Commencement Ceremony" />
+          <a href="/Gallery/Albums/sport-activities/honoring-winners-universities-championship-chess-tennis-and-karate?title=Honoring%20Winners%20in%20Universities%20Championship%20in%20Chess%2C%20Tennis%20and%20Karate&amp;inline=true#colorbox-inline-806667611" class="colorbox-inline" rel="gallery">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/node/803/2016-11/img4012.JPG" width="465" height="288" alt="Honoring Winners in Universities Championship in Chess, Tennis and Karate" />
 </a>
 <div style="display: none;">
-<div id="colorbox-inline-1242478016">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/gallery/albums/graduation/2015/2016-09/img7582.jpg" width="750" height="500" alt="12th Commencement Ceremony" />
+<div id="colorbox-inline-806667611">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/node/803/2016-11/img4012.JPG" width="750" height="465" alt="Honoring Winners in Universities Championship in Chess, Tennis and Karate" />
 </div>
 </div>
               
@@ -3193,12 +3193,12 @@ Photo Gallary</h2>
           <div class="slick__slide slide slide--4">
       <div class="slide__content">
               
-          <a href="/Gallery/Albums/student-life/students-life-2?title=Students%20Life&amp;inline=true#colorbox-inline-1900809365" class="colorbox-inline" rel="gallery">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/node/830/2016-10/dsc9042.JPG" width="465" height="309" alt="Students Life" />
+          <a href="/Gallery/Albums/student-life/spring-season-university?title=Spring%20season%20in%20the%20university&amp;inline=true#colorbox-inline-823745728" class="colorbox-inline" rel="gallery">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/student-life/2018-03/img8964.JPG" width="465" height="263" alt="Spring season in the university" />
 </a>
 <div style="display: none;">
-<div id="colorbox-inline-1900809365">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/node/830/2016-10/dsc9042.JPG" width="750" height="499" alt="Students Life" />
+<div id="colorbox-inline-823745728">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/student-life/2018-03/img8964.JPG" width="750" height="424" alt="Spring season in the university" />
 </div>
 </div>
               
@@ -3208,12 +3208,12 @@ Photo Gallary</h2>
           <div class="slick__slide slide slide--5">
       <div class="slide__content">
               
-          <a href="/Gallery/Albums/student-life/students-life-2?title=Students%20Life&amp;inline=true#colorbox-inline-869493443" class="colorbox-inline" rel="gallery">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/node/830/2016-10/dsc5424.JPG" width="465" height="309" alt="Students Life" />
+          <a href="/Gallery/Albums/graduation/2017-0/3rd-batch-graduation-ceremony-master-students-mba?title=The%203rd%20Batch%20Graduation%20Ceremony%20for%20Master%20Students%20of%20MBA&amp;inline=true#colorbox-inline-521267017" class="colorbox-inline" rel="gallery">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/graduation/2017-0/2017-10/mg7550.JPG" width="465" height="268" alt="The 3rd Batch Graduation Ceremony for Master Students of MBA" />
 </a>
 <div style="display: none;">
-<div id="colorbox-inline-869493443">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/node/830/2016-10/dsc5424.JPG" width="750" height="499" alt="Students Life" />
+<div id="colorbox-inline-521267017">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/graduation/2017-0/2017-10/mg7550.JPG" width="750" height="432" alt="The 3rd Batch Graduation Ceremony for Master Students of MBA" />
 </div>
 </div>
               
@@ -3223,12 +3223,12 @@ Photo Gallary</h2>
           <div class="slick__slide slide slide--6">
       <div class="slide__content">
               
-          <a href="/Gallery/Albums/university-guests/visit-his-highness-prince-faris-al-said?title=Visit%20of%20His%20Highness%20Prince%20Faris%20Al%20Said&amp;inline=true#colorbox-inline-1874927678" class="colorbox-inline" rel="gallery">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/university-guests/2018-01/mg8715.JPG" width="465" height="252" alt="Visit of His Highness Prince Faris Al Said" />
+          <a href="/Gallery/Albums/campus/jenin/physical-and-occupational-therapy-clinics-university?title=Physical%20and%20Occupational%20Therapy%20Clinics%20at%20the%20University&amp;inline=true#colorbox-inline-821750213" class="colorbox-inline" rel="gallery">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/campus/jenin/2018-12/%D8%B54.JPG" width="450" height="311" alt="Physical and Occupational Therapy Clinics at the University" />
 </a>
 <div style="display: none;">
-<div id="colorbox-inline-1874927678">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/university-guests/2018-01/mg8715.JPG" width="750" height="407" alt="Visit of His Highness Prince Faris Al Said" />
+<div id="colorbox-inline-821750213">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/campus/jenin/2018-12/%D8%B54.JPG" width="724" height="501" alt="Physical and Occupational Therapy Clinics at the University" />
 </div>
 </div>
               
@@ -3238,12 +3238,12 @@ Photo Gallary</h2>
           <div class="slick__slide slide slide--7">
       <div class="slide__content">
               
-          <a href="/Gallery/Albums/graduation/2014/11th-commencement-ceremony?title=11th%20Commencement%20Ceremony&amp;inline=true#colorbox-inline-588352576" class="colorbox-inline" rel="gallery">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/gallery/albums/graduation/2014/2016-10/img3055.jpg" width="462" height="311" alt="11th Commencement Ceremony" />
+          <a href="/Gallery/Albums/student-life/students-university-perform-initiative-raise-awareness-importance-eating-dates-daily-basis-human-health?title=Students%20From%20the%20University%20Perform%20an%20Initiative%20to%20Raise%20Awareness%20of%20the%20Importance%20of%20Eating%20Dates%20on%20a%20Daily%20Basis%20for%20Human%20Health&amp;inline=true#colorbox-inline-1510076022" class="colorbox-inline" rel="gallery">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/student-life/2019-04/mg9709.JPG" width="465" height="310" alt="Students From the University Perform an Initiative to Raise Awareness of the Importance of Eating Dates on a Daily Basis for Human Health" />
 </a>
 <div style="display: none;">
-<div id="colorbox-inline-588352576">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/gallery/albums/graduation/2014/2016-10/img3055.jpg" width="744" height="501" alt="11th Commencement Ceremony" />
+<div id="colorbox-inline-1510076022">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/student-life/2019-04/mg9709.JPG" width="750" height="500" alt="Students From the University Perform an Initiative to Raise Awareness of the Importance of Eating Dates on a Daily Basis for Human Health" />
 </div>
 </div>
               
@@ -3253,12 +3253,12 @@ Photo Gallary</h2>
           <div class="slick__slide slide slide--8">
       <div class="slide__content">
               
-          <a href="/Gallery/Albums/events/2020/orientation-day-new-enrolled-students-academic-year-2020-2021?title=Orientation%20Day%20for%20New%20Enrolled%20Students%20of%20the%20Academic%20Year%202020/2021&amp;inline=true#colorbox-inline-1525797098" class="colorbox-inline" rel="gallery">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/events/2020/2020-11/dsc02730.jpg" width="465" height="293" alt="Orientation Day for New Enrolled Students of the Academic Year 2020/2021" />
+          <a href="/Gallery/Albums/events/2019/mba-graduates-aaup-announce-establishment-union-follow-their-affairs?title=MBA%20Graduates%20at%20AAUP%20Announce%20the%20Establishment%20of%20a%20Union%20to%20Follow%20Up%20on%20Their%20Affairs&amp;inline=true#colorbox-inline-775077318" class="colorbox-inline" rel="gallery">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/events/2019/2019-06/6208710825240217909440417397324488611725312o.jpg" width="465" height="287" alt="MBA Graduates at AAUP Announce the Establishment of a Union to Follow Up on Their Affairs" />
 </a>
 <div style="display: none;">
-<div id="colorbox-inline-1525797098">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/events/2020/2020-11/dsc02730.jpg" width="750" height="473" alt="Orientation Day for New Enrolled Students of the Academic Year 2020/2021" />
+<div id="colorbox-inline-775077318">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/events/2019/2019-06/6208710825240217909440417397324488611725312o.jpg" width="750" height="463" alt="MBA Graduates at AAUP Announce the Establishment of a Union to Follow Up on Their Affairs" />
 </div>
 </div>
               
@@ -3268,12 +3268,12 @@ Photo Gallary</h2>
           <div class="slick__slide slide slide--9">
       <div class="slide__content">
               
-          <a href="/Gallery/Albums/graduation/2017/14th-cohort-graduation-ceremony-2017-4?title=14th%20cohort%20graduation%20ceremony%202017&amp;inline=true#colorbox-inline-52025473" class="colorbox-inline" rel="gallery">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/graduation/2017/2017-07/img0273.JPG" width="465" height="310" alt="14th cohort graduation ceremony 2017" />
+          <a href="/Gallery/Albums/sport-activities/aaup-hosted-international-basketball-game-between-palestinian-team-and-sri-lanka-team-among-asia-basketball-qualifiers?title=AAUP%20Hosted%20the%20International%20Basketball%20Game%20between%20the%20Palestinian%20Team%20and%20Sri%20Lanka%20Team%20among%20Asia%20Basketball%20Qualifiers%20&amp;inline=true#colorbox-inline-858787272" class="colorbox-inline" rel="gallery">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled/public/gallery/albums/sport-activities/2020-02/8m3a4484.JPG" width="465" height="310" alt="AAUP Hosted the International Basketball Game between the Palestinian Team and Sri Lanka Team among Asia Basketball Qualifiers " />
 </a>
 <div style="display: none;">
-<div id="colorbox-inline-52025473">
-<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/graduation/2017/2017-07/img0273.JPG" width="750" height="500" alt="14th cohort graduation ceremony 2017" />
+<div id="colorbox-inline-858787272">
+<img typeof="foaf:Image" src="https://www.aaup.edu/sites/default/files/styles/scaled__750x501_/public/gallery/albums/sport-activities/2020-02/8m3a4484.JPG" width="750" height="500" alt="AAUP Hosted the International Basketball Game between the Palestinian Team and Sri Lanka Team among Asia Basketball Qualifiers " />
 </div>
 </div>
               
@@ -3339,7 +3339,7 @@ Latest Videos</h2>
   
   <div class="content">
 
-    <div class="view view-video-gallery view-id-video_gallery view-display-id-block_1 view-dom-id-503ab25d056f1d501f3016209e8898ea">
+    <div class="view view-video-gallery view-id-video_gallery view-display-id-block_1 view-dom-id-92b9c283afd3c8f56c7388d0e5d0443c">
 
         
   
@@ -3775,7 +3775,7 @@ Featured Students</a>
     
   <div class="content">
 
-    <div class="view view-students view-id-students view-display-id-block_1 clearfix custom-row row view-dom-id-46c9f6048dd2c237f0158b565d4bdde0">
+    <div class="view view-students view-id-students view-display-id-block_1 clearfix custom-row row view-dom-id-e9795069eb6b572e0b0089d9a688c0f0">
 
         
   
@@ -4102,7 +4102,7 @@ E-mail <span class="form-required" title="This field is required.">
 </div>
 
 <input type="submit" id="edit-submit--2" name="op" value="Subscribe" class="form-submit" />
-<input type="hidden" name="form_build_id" value="form-B5O8KxoMv1Hvtz7S6HSv1n4rX4i8aF2sY9jSnvJWN0k" />
+<input type="hidden" name="form_build_id" value="form-6NLKkHbk_rm0NOA876DXn89ACyErnmSGmZiW0iNuSMw" />
 
 <input type="hidden" name="form_id" value="mailing_list_subscription_form_2" />
 
